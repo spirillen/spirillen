@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-<!--
-**spirillen/spirillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<h2 align="center">More insight of my GitHub account</h2>
+<h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spirillen&amp;theme=gruvbox" alt="spirillen&#39;s Trophies"></a>
+</p>
 
-<img align="center" alt="Spirillen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spirillen&show_icons=true&include_all_commits=true&hide=prs,issues&count_private=true&theme=chartreuse-dark" />
+---
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=spirillen&amp;count_private=true&amp;theme=chartreuse-dark&amp;show_icons=true&amp;include_all_commits=true" alt="spirillen&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirillen&amp;langs_count=5&amp;theme=chartreuse-dark&amp;show_icons=true&amp;include_all_commits=true" alt="Top spirillen&#39;s Languages"></a>
+</p>
