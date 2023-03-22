@@ -1,5 +1,8 @@
 ### Hi there 👋
 You can reach me at https://matrix.to/#/@spirillen:anontier.nl
+and https://0xacab.org/spirillen
+
+I will no longer be supporting Github as they decided to require Spyware (2FA).
 
 ---
 <h2 align="center">More insight of my GitHub account</h2>
