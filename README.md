@@ -2,8 +2,6 @@
 You can reach me at https://matrix.to/#/@spirillen:anontier.nl
 and https://0xacab.org/spirillen
 
-I will no longer be supporting Github as they decided to require Spyware (2FA).
-
 > GitHub users are now required to enable two-factor authentication as an additional security measure. Your activity on GitHub includes you in this requirement. You will need to enable two-factor authentication on your account before May 04, 2023, or be restricted from account actions. 
 
 ---
