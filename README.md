@@ -5,7 +5,7 @@ You can reach me at:
 - https://matrix.to/#/@spirillen:matrix.org
 - https://0xacab.org/spirillen
 - http://7jaxqg6lfcdtosooxhv5drpettiwnt6ytdywfgefppk2ol4dzlddblyd.onion/@mypdns
-- https://ioc.exchange/@spirillen
+- https://ioc.exchange/invite/ZC5enuNv
 - ircs://irc.oftc.net:6697/#spirillen
 - ircs://irc.oftc.net:6697/#mypdns
 
