@@ -7,6 +7,8 @@ You can reach me at:
 - ircs://irc.oftc.net:6697/#spirillen
 - ircs://irc.oftc.net:6697/#mypdns
 
+[![goal](https://mypdns.org/dl/fileproxy/?name=sp_goal_spirillen)](https://liberapay.com/spirillen/donate) [![liberapay](https://mypdns.org/dl/fileproxy/?name=sp_receives_spirillen)](https://liberapay.com/spirillen/donate)
+
 ---
 
 <h2 align="center">More insight of my GitHub account</h2>
