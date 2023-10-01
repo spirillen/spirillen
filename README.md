@@ -1,17 +1,14 @@
 ### Hi there 👋
 You can reach me at:
 
-- https://mypdns.eu.org/chat/
+- https://matrix.rocks/@spirillen
 - https://matrix.to/#/@spirillen:matrix.org
-- https://0xacab.org/spirillen
-- http://7jaxqg6lfcdtosooxhv5drpettiwnt6ytdywfgefppk2ol4dzlddblyd.onion/@mypdns
 - https://ioc.exchange/invite/ZC5enuNv
 - ircs://irc.oftc.net:6697/#spirillen
 - ircs://irc.oftc.net:6697/#mypdns
 
-> GitHub users are now required to enable two-factor authentication as an additional security measure. Your activity on GitHub includes you in this requirement. You will need to enable two-factor authentication on your account before May 04, 2023, or be restricted from account actions. 
-
 ---
+
 <h2 align="center">More insight of my GitHub account</h2>
 <h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
 
