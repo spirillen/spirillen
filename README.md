@@ -1,13 +1,13 @@
 ### Hi there 👋
+
 You can reach me at:
 
 - https://matrix.rocks/@spirillen
 - https://matrix.to/#/@spirillen:matrix.org
-- https://ioc.exchange/invite/ZC5enuNv
 - ircs://irc.oftc.net:6697/#spirillen
 - ircs://irc.oftc.net:6697/#mypdns
 
-[![goal](https://mypdns.org/dl/fileproxy/?name=sp_goal_spirillen)](https://liberapay.com/spirillen/donate) [![liberapay](https://mypdns.org/dl/fileproxy/?name=sp_receives_spirillen)](https://liberapay.com/spirillen/donate)
+[![goal](https://www.mypdns.org/fileproxy/?name=sp_goal_spirillen)](https://liberapay.com/spirillen/donate) [![liberapay](https://www.mypdns.org/fileproxy/?name=sp_receives_spirillen)](https://liberapay.com/spirillen/donate)
 
 ---
 
