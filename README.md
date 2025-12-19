@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 You can reach me at:
-
+- https://bitbucket.org/spirillen/
+- https://framagit.org/spirillen
+- https://github.com/spirillen
+- https://gitlab.com/spirillen
+- https://kb.mypdns.org/users/spirillen
 - https://matrix.rocks/@spirillen
 - https://matrix.to/#/@spirillen:matrix.org
+- https://mypdns.youtrack.cloud/users/spirillen
 - ircs://irc.oftc.net:6697/#spirillen
 - ircs://irc.oftc.net:6697/#mypdns
 
